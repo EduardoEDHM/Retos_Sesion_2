@@ -89,3 +89,39 @@ a{
 }
 
 
+
+
+
+
+
+
+@media screen and (max-width: 1440px){
+
+
+
+
+    .header-container-padre{
+
+        margin-top: 20px;
+        margin-left: 60px;
+    
+    }
+
+
+    ul{
+
+        margin-left: 180px;
+        list-style: none;
+    
+    }
+
+
+    .actions{
+
+        margin-left: 150px;
+        margin-top: 5px;
+    
+    }
+
+
+}
